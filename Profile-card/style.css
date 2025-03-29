@@ -70,7 +70,6 @@ body {
     transform: scale(1.1);
 }
 
-/* Responsive Design */
 @media (max-width: 400px) {
     .profile-card {
         width: 90%;
